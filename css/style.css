@@ -52,6 +52,7 @@ body {
 }
 .main-content {
     margin-left: 250px!important;
+    padding-top: 1.5rem!important;
 }
 .footer a {
     color: #57ad68;
