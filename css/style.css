@@ -50,8 +50,8 @@ body {
 .container-fluid {
     padding-top: 30px;
 }
-.main-contents {
-    padding-top: 2rem!important;
+.main-content {
+    margin-left: 250px!important;
 }
 .footer a {
     color: #57ad68;
@@ -84,4 +84,7 @@ body {
 
 .edit-tables {
     display: flex;
+}
+.navbar-top {
+    margin-left: 225px!important;
 }
